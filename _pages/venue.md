@@ -8,4 +8,4 @@ published: true
 ## Osaka, Japan
 
 
-![gartner-1](osaka.png)
+![Illumination at Osaka Castle](../../assets/images/osaka.png)
