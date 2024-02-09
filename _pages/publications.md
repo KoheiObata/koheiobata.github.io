@@ -6,24 +6,30 @@ published: true
 ---
 
 #### Awards
-0. Best Student Paper Award - Christian Sicari and Lorenzo Carnevale and Antonino Galletta and Massimo Villari. "*OpenWolf: a Serverless Workflow Engine for Native Cloud-Edge Continuum*". The 7th IEEE Cyber Science and Technology Congress (CyberSciTech)", September 2022, Falerna (CZ), Italy
+0. DEIM 2023 Student Presentation Award
+
+1. Japan Student Services Organization (JASSO) Student Loan, Exemption (2023)
+
+2. SIGMOD Student Travel Grant for the WSDM 2024
 {: reversed="reversed"}
 
 ## Internatioanl Conference Papers
 
-#### 2021
-0. Lorenzo Carnevale, Luisa Damiano, Antonio Fleres, and Massimo Villari. “*Visitor Artwork Ambient and how Making New Functions of Cultural Heritage by Using Augmented Reality within an Ambient Intelligence*”. 2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). October 2021, pp. 8-12 (doi: [10.1109/ISMAR-Adjunct54149.2021.00013](https://doi.org/10.1109/ISMAR-Adjunct54149.2021.00013))
+#### 2024
+0. Kohei Obata. “*Gaussian Graphical Model-Based Clustering of Time Series Data*”. Proceedings of the 17th ACM International Conference on Web Search and Data Mining (WSDM '24), March 4--8, 2024, Merida, Mexico, pp. 8-12 (doi: [10.1145/3616855.3635728](https://doi.org/10.1145/3616855.3635728))
+
+1. Kohei Obata, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “*Dynamic Multi-Network Mining of Tensor Time Series*”. In Proceedings of the ACM Web Conference 2024 (WWW ’24), May 13--17, 2024, Singapore (doi: [](https://doi.org/), [github](https://doi.org/))
 
 
-#### 2020
-0. Emanuele Carlini, Lorenzo Carnevale, Massimo Coppola, Patrizio Dazzi, Gabriele Mencagli, Domenico Talia e Massimo Villari. “*An Osmotic Ecosystem for Data Streaming Applications in Smart Cities*”. Proceedings of the 1st Workshop on Flexible Resource and Application Management on the Edge (FRAME), Virtual Event, Sweden: Association for Computing Machinery, 2020, pp. 27–31 (ISBN: 9781450383844, doi: [10.1145/3452369.3463822](https://doi.org/10.1145/3452369.3463822))
-{: reversed="reversed"}
+#### 2022
+0. Kohei Obata. "*Automatic Time-Series Clustering via Network Inference*". 47th International Conference on Very Large Data Bases (VLDB) PhD workshop, September 2022. [pdf](https://ceur-ws.org/Vol-3186/paper_6.pdf)
 
 
 ## Domestic Journals/Presentations
 
-#### 2020
-0. Lorenzo Carnevale and Antonio Celesti and Giacomo Fiumara and Antonino Galletta and Massimo Villari. "*Investigating classification supervised learning approaches for the identification of critical patients' posts in a healthcare social network*". Applied Soft Computing, Elsevier, vol. 90, pp. 106155, ISSN: 1568-4946 (May 2020) (doi: [10.1016/j.asoc.2020.106155](https://doi.org/10.1016/j.asoc.2020.106155)) [[bibtex](https://github.com/lcarnevale/publications/blob/main/bibtex/202005-paper-journal-elsevier-applied_soft_computing.bib)]
+#### 2023
+
+0. Kohei Obata, Yasuko Matsubara, Koki Kawabata, Kota Nakamura, Yasushi Sakurai. "*Automatic Network Structure-based Clustering of Multivariate Time Series*". IPSJ Transactions on Databases (TOD) Vol.16, No.1, 1-13, January 2023. [link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223471&item_no=1&page_id=13&block_id=81)
 
 
 
