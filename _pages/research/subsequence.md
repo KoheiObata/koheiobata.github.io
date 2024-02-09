@@ -1,7 +1,7 @@
 ---
 title:
 layout: default
-permalink: /research/edge-ai
+permalink: /research/subsequence
 published: true
 ---
 
