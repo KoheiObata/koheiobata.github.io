@@ -13,6 +13,6 @@ My research interests fall in:
 
 Focuses I have interested on are:
 - Gaussian Graphical Model, Network Inference
-- Subsequence Clustering[Edge Intelligence]({{site.baseurl}}/research/edge-ai)
+- [Subsequence Clustering]({{site.baseurl}}/research/edge-ai)
 - Contrastive Learning
 - Diffusion  Model
