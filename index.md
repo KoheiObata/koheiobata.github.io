@@ -14,7 +14,7 @@ My research interests includes, data mining, time series analysis.
 #### Short Biography
 I am a PhD candidate in the <a href="https://www.dm.sanken.osaka-u.ac.jp/">Sakurai Matsubata Lab</a> at the Department of Information Science and Technology of the <a href="https://www.osaka-u.ac.jp/en/">Osaka University</a>.
 
-#### Edcations
+#### Educations
 
 ##### Ph.D. [April 2023 - present]
 - Osaka University, Osaka, Japan.

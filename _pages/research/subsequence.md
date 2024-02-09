@@ -5,7 +5,7 @@ permalink: /research/subsequence
 published: true
 ---
 
-## Time Series Subsequence Clustering
+## DMM: Time Series Subsequence Clustering
 
 Interpretability is important.
 
