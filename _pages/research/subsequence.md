@@ -9,7 +9,7 @@ published: true
 
 Interpretability is important.
 
-![gartner-hype-cycle-ai-2021](../../assets/images/subsequence.png)
+![subsequence](../../assets/images/subsequence.png)
 <!-- [Figure 1: The 4 Trends That Prevail on the Gartner Hype Cycle for AI, 2021](https://www.gartner.com/en/articles/the-4-trends-that-prevail-on-the-gartner-hype-cycle-for-ai-2021-) -->
 
 ### Reference
