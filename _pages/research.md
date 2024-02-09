@@ -6,17 +6,13 @@ published: true
 ---
 
 ## Research
-My research interests fall in three macro-areas of computer science and engineering:
-- distributed systems
-- intelligent and autonomous systems
+My research interests fall in:
+- data mining
+- time series analysis
 - algorithms and optimization
 
 Focuses I have interested on are:
-- Wireless Sensor Networks
-- Edge Computing
-- [Edge Intelligence]({{site.baseurl}}/research/edge-ai)
-- Federated Learning
-- Autonomous Vehicles
-- Reinforcement Learning
-- Swarm Intelligence
-- Genetic Algorithms
+- Gaussian Graphical Model, Network Inference
+- Subsequence Clustering[Edge Intelligence]({{site.baseurl}}/research/edge-ai)
+- Contrastive Learning
+- Diffusion  Model
