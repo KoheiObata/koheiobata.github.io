@@ -8,4 +8,4 @@ published: true
 ## Osaka, Japan
 
 
-![gartner-hype-cycle-ai-2021](osaka.png)
+![gartner-1](osaka.png)
