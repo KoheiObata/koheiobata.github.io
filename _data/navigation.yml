@@ -5,13 +5,13 @@
   sublinks:
     - title: Publications
       url: /publications/
-    - title: Projects
-      url: /projects/
-    - title: Activities
-      url: /activities/
-- title: Students
-  url: /teaching/
-- title: Blog
-  url: /blog/
+    # - title: Projects
+      # url: /projects/
+    # - title: Activities
+      # url: /activities/
+# - title: Students
+#   url: /teaching/
+# - title: Blog
+#   url: /blog/
 - title: Venue
   url: /venue/
