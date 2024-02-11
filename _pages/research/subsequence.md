@@ -14,4 +14,4 @@ Interpretability is important.
 
 ### Reference
 
-0. Kohei Obata, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “*Dynamic Multi-Network Mining of Tensor Time Series*”. In Proceedings of the ACM Web Conference 2024 (WWW ’24), May 13--17, 2024, Singapore (doi: [](https://doi.org/), [github](https://doi.org/))
+0. **Kohei Obata**, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “*Dynamic Multi-Network Mining of Tensor Time Series*”. Proceedings of the ACM Web Conference 2024 (WWW ’24), Research Tracks, May 13--17, 2024, Singapore. (to appear)
