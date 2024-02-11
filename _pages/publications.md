@@ -25,7 +25,7 @@ published: true
 
 
 #### 2022
-0. **Kohei Obata**. "*Automatic Time-Series Clustering via Network Inference*". 47th International Conference on Very Large Data Bases (VLDB) PhD workshop, September 2022. [pdf](https://ceur-ws.org/Vol-3186/paper_6.pdf)
+0. **Kohei Obata**. "*Automatic Time-Series Clustering via Network Inference*". 47th International Conference on Very Large Data Bases (VLDB) PhD workshop, September 2022. ([pdf](https://ceur-ws.org/Vol-3186/paper_6.pdf))
 
 
 ## Domestic Journals/Presentations
