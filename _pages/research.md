@@ -6,12 +6,12 @@ published: true
 ---
 
 ## Research
-My research interests fall in:
+My research interests:
 - data mining
 - time series analysis
 - algorithms and optimization
 
-Focuses I have interested on are:
+Specific interests:
 - Gaussian Graphical Model, Network Inference
 - [Subsequence Clustering]({{site.baseurl}}/research/subsequence)
 - Contrastive Learning
