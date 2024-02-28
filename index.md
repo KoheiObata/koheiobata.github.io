@@ -12,7 +12,12 @@ My research interests includes, data mining, time series analysis.
 
 
 #### Short Biography
-I am a PhD candidate in the <a href="https://www.dm.sanken.osaka-u.ac.jp/">Sakurai & Matsubara Lab</a> at the Department of Information Science and Technology of the <a href="https://www.osaka-u.ac.jp/en/">Osaka University</a>.
+I am a Ph.D. candidate in the <a href="https://www.dm.sanken.osaka-u.ac.jp/">Sakurai & Matsubara Lab</a> at the Department of Information Science and Technology of the <a href="https://www.osaka-u.ac.jp/en/">Osaka University</a>
+with an anticipated dissertation defense in March 2026.
+My research focus is primarily time series data mining, and I have experience in developing both machine learning models and deep learning models.
+I'm currently working on anomaly detection with a diffusion model.
+
+I'm open for research internship roles from 2024 ~ 2025 Fall.
 
 #### Educations
 
