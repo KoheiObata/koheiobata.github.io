@@ -26,7 +26,7 @@ I'm open for research internship roles from 2024 ~ 2025 Fall.
 
 ##### Ph.D. [April 2023 - present]
 - Osaka University, Osaka, Japan.
-- Advisor: Prof. Yasushi Sakurai.
+- Advisor: Prof. Yasushi Sakurai (yasushi@sanken.osaka-u.ac.jp).
 
 ##### M.S. in Information Science [2021 - 2023]
 - Osaka University, Osaka, Japan.
