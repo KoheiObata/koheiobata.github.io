@@ -10,7 +10,7 @@ published: true
 #### Research Agenda
 My research focus is on data mining of time series data using machine learning or deep learning.
 I have experience with various themes, including interpretable pattern mining using a Graphical lasso, missing value imputation via LDS (Linear Dinamycal System), and representation learning via contrastive learning for tensor time series.
-I’m currently tucking on table data imputation with LDA (Latent Dirichlet Distribution) and time series anomaly detection via diffusion model.
+I’m currently tuckling on table data imputation with LDA (Latent Dirichlet Distribution) and time series anomaly detection via diffusion model.
 
 
 #### Short Biography

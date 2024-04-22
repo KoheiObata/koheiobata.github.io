@@ -19,7 +19,7 @@ published: true
 #### 2024
 0. <u>Kohei Obata</u>. “*Gaussian Graphical Model-Based Clustering of Time Series Data*”. Proceedings of the 17th ACM International Conference on Web Search and Data Mining (WSDM '24), March 4--8, 2024, Merida, Mexico, pp. 8-12. (doi: [10.1145/3616855.3635728](https://doi.org/10.1145/3616855.3635728))
 
-1. <u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “*Dynamic Multi-Network Mining of Tensor Time Series*”. Proceedings of the ACM Web Conference 2024 (WWW ’24), May 13--17, 2024, Singapore. (doi: [10.1145/3589334.3645461](https://doi.org/10.1145/3589334.3645461), [github](https://github.com/KoheiObata/DMM))
+1. <u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “*Dynamic Multi-Network Mining of Tensor Time Series*”. Proceedings of the ACM Web Conference 2024 (WWW ’24, Oral Session), May 13--17, 2024, Singapore. Acceptance Rate for Oral Session: 192/2008, 9.6% (doi: [10.1145/3589334.3645461](https://doi.org/10.1145/3589334.3645461), [github](https://github.com/KoheiObata/DMM))
 <!-- {: reversed="reversed"} -->
 
 
