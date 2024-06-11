@@ -21,7 +21,7 @@ published: true
 
 1. <u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “*Dynamic Multi-Network Mining of Tensor Time Series*”. Proceedings of the ACM Web Conference 2024 (WWW ’24, Oral Session), May 13--17, 2024, Singapore. Acceptance Rate for Oral Session: 192/2008, 9.6% (doi: [10.1145/3589334.3645461](https://doi.org/10.1145/3589334.3645461), [github](https://github.com/KoheiObata/DMM))
 
-2. <u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “*Mining of Switching Sparse Networks for Missing Value Imputation in Multivariate Time Series*”. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’24), August 25--29, 2024, Barcelona, Spain. (doi: [TBA](), [github](https://github.com/KoheiObata/MissNet))
+2. <u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “*Mining of Switching Sparse Networks for Missing Value Imputation in Multivariate Time Series*”. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’24), August 25--29, 2024, Barcelona, Spain. (doi: [10.1145/3637528.3671760](https://doi.org/10.1145/3637528.3671760), [github](https://github.com/KoheiObata/MissNet))
 <!-- {: reversed="reversed"} -->
 
 
