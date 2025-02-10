@@ -43,7 +43,7 @@ Representations for Tensor Time Series via Contrastive Learning*”. PAKDD'25. (
 
 ## Domestic Journals/Presentations
 
-#### 2024
+#### 2025
 
 0. <u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. "*Multivariate Time Series Imputation Method based on Sparse Network*". IPSJ Transactions on Databases (TOD) , April 2025. (to appear)
 {: reversed="reversed"}
