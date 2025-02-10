@@ -14,14 +14,25 @@ published: true
 
 3. SIGMOD Student Travel Grant for the WSDM 2024
 
+4. KDD 2024 Student Travel Award
+
 ## Internatioanl Conference Papers
 
+#### 2025
+0. <u>Kohei Obata</u>, Taichi Murayama, Zheng Chen, Yasuko Matsubara, Yasushi Sakurai. “*Disentangled Mode-Specific
+Representations for Tensor Time Series via Contrastive Learning*”. PAKDD'25. (to appear)
+
+
 #### 2024
+
 0. <u>Kohei Obata</u>. “*Gaussian Graphical Model-Based Clustering of Time Series Data*”. Proceedings of the 17th ACM International Conference on Web Search and Data Mining (WSDM '24), March 4--8, 2024, Merida, Mexico, pp. 8-12. (doi: [10.1145/3616855.3635728](https://doi.org/10.1145/3616855.3635728))
 
 1. <u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “*Dynamic Multi-Network Mining of Tensor Time Series*”. Proceedings of the ACM Web Conference 2024 (WWW ’24, Oral Session), May 13--17, 2024, Singapore. Acceptance Rate for Oral Session: 192/2008, 9.6% (doi: [10.1145/3589334.3645461](https://doi.org/10.1145/3589334.3645461), [github](https://github.com/KoheiObata/DMM))
 
 2. <u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “*Mining of Switching Sparse Networks for Missing Value Imputation in Multivariate Time Series*”. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’24), August 25--29, 2024, Barcelona, Spain. (doi: [10.1145/3637528.3671760](https://doi.org/10.1145/3637528.3671760), [github](https://github.com/KoheiObata/MissNet))
+
+3. <u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. "*Multivariate Time Series Imputation Method based on Sparse Network*". IPSJ Transactions on Databases (TOD) , April 2025. ([link]())
+
 <!-- {: reversed="reversed"} -->
 
 
@@ -30,6 +41,10 @@ published: true
 
 
 ## Domestic Journals/Presentations
+
+#### 2024
+
+0. <u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. "*Multivariate Time Series Imputation Method based on Sparse Network*". IPSJ Transactions on Databases (TOD) , April 2025. ([link]())
 
 #### 2023
 
