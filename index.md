@@ -8,14 +8,15 @@ published: true
 ---
 
 #### Research Agenda
-My research focus is on data mining of time series data using machine learning or deep learning.
-I have experience with various themes, including interpretable pattern mining using a Graphical lasso, missing value imputation via LDS (Linear Dinamycal System), and representation learning via contrastive learning for tensor time series.
-I’m currently tuckling on table data imputation with LDA (Latent Dirichlet Distribution) and time series anomaly detection via diffusion model.
+My research focus is on time series data mining.
+I have experience with various themes, including interpretable pattern mining, missing value imputation, representation learning via contrastive learning, and anomaly detection.
 
 
 #### Short Biography
 I am a Ph.D. candidate in the <a href="https://www.dm.sanken.osaka-u.ac.jp/">Sakurai & Matsubara Lab</a> at the Department of Information Science and Technology of the <a href="https://www.osaka-u.ac.jp/en/">Osaka University</a>
-with an anticipated dissertation defense in March 2026.
+with an anticipated dissertation defense in March 2026 (or potencially September 2025).
+More details can be found in my <a href="https://drive.google.com/file/d/19IAaMVTZ3VRoI7Ik9YfUFkiNUiV_iO0y/view?usp=sharing/">CV</a>.
+
 
 I'm open for research internship roles from 2024 ~ 2025 Fall.
 

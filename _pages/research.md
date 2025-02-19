@@ -7,12 +7,14 @@ published: true
 
 ## Research
 My research interests:
-- data mining
-- time series analysis
-- algorithms and optimization
+- Data mining
+- Time series analysis
+- Algorithms and optimization
+- Anomaly detection
 
 Specific interests:
-- Gaussian Graphical Model, Network Inference
-- [Subsequence Clustering]({{site.baseurl}}/research/subsequence)
-- Contrastive Learning
-- Diffusion  Model
+- Gaussian graphical model, network inference
+- [Subsequence clustering]({{site.baseurl}}/research/subsequence)
+- Contrastive learning
+- Diffusion model
+- Data augmentation
