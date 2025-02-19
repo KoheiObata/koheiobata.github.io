@@ -17,8 +17,7 @@ I am a Ph.D. candidate in the <a href="https://www.dm.sanken.osaka-u.ac.jp/">Sak
 with an anticipated dissertation defense in March 2026 (or potencially September 2025).
 More details can be found in my <a href="https://drive.google.com/file/d/19IAaMVTZ3VRoI7Ik9YfUFkiNUiV_iO0y/view?usp=sharing/">CV</a>.
 
-
-I'm open for research internship roles from 2024 ~ 2025 Fall.
+I am open to research internship roles from 2024 to Fall 2025 and job opportunities starting in September 2025.
 
 #### Educations
 
