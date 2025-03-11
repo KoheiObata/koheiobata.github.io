@@ -7,6 +7,9 @@ published: true
 
 ## Awards/Grants
 
+
+5. The Database Society of Japan (DBSJ) Kambayashi Young Researcher Award (2025)
+
 4. KDD 2024 Student Travel Award
 
 3. SIGMOD Student Travel Grant for the WSDM 2024
