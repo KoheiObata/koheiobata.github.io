@@ -8,7 +8,7 @@ published: true
 ## Awards/Grants
 
 
-5. The Database Society of Japan (DBSJ) Kambayashi Young Researcher Award (2025)
+5. The Database Society of Japan (DBSJ) Kambayashi Young Researcher Award [2025]
 
 4. KDD 2024 Student Travel Award
 
@@ -44,7 +44,7 @@ Representations for Tensor Time Series via Contrastive Learning*”. PAKDD'25. (
 {: reversed="reversed"}
 
 
-## Domestic Journals/Presentations
+## Journals
 
 #### 2025
 
@@ -53,9 +53,12 @@ Representations for Tensor Time Series via Contrastive Learning*”. PAKDD'25. (
 
 #### 2023
 
-1. <u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai "*時系列テンソルデータのための将来予測*". DEIM Forum 2023, March 5--9, 2023, Gifu, Japan. ([link](https://proceedings-of-deim.github.io/DEIM2023/2b-2-2.pdf))
-
 0. <u>Kohei Obata</u>, Yasuko Matsubara, Koki Kawabata, Kota Nakamura, Yasushi Sakurai. "*Automatic Network Structure-based Clustering of Multivariate Time Series*". IPSJ Transactions on Databases (TOD) Vol.16, No.1, 1-13, January 2023. ([link](https://ipsj.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=223471&item_no=1&page_id=13&block_id=81))
 {: reversed="reversed"}
 
 
+## Presentations
+
+#### 2023
+
+0. <u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai "*時系列テンソルデータのための将来予測*". DEIM Forum 2023, March 5--9, 2023, Gifu, Japan. ([link](https://proceedings-of-deim.github.io/DEIM2023/2b-2-2.pdf))
