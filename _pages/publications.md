@@ -8,7 +8,7 @@ published: true
 ## Awards/Grants
 
 
-5. The Database Society of Japan (DBSJ) Kambayashi Young Researcher Award [2025]
+5. The Database Society of Japan (DBSJ) Kambayashi Young Researcher Award [2025] ([link](https://dbsj.org/overview/award/))
 
 4. KDD 2024 Student Travel Award
 

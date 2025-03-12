@@ -15,7 +15,7 @@ I have experience with various themes, including interpretable pattern mining, m
 #### Short Biography
 I am a Ph.D. candidate in the <a href="https://www.dm.sanken.osaka-u.ac.jp/">Sakurai & Matsubara Lab</a> at the Department of Information Science and Technology of the <a href="https://www.osaka-u.ac.jp/en/">Osaka University</a>
 with an anticipated dissertation defense in March 2026 (or potencially September 2025).
-More details can be found in my <a href="https://drive.google.com/file/d/19IAaMVTZ3VRoI7Ik9YfUFkiNUiV_iO0y/view?usp=sharing/">CV</a>.
+More details can be found in my <a href="https://drive.google.com/file/d/19IAaMVTZ3VRoI7Ik9YfUFkiNUiV_iO0y/view?usp=sharing/">CV</a> and [GoogleScholar](https://scholar.google.com/citations?user=UUtbtckAAAAJ&hl=ja).
 
 I am open to research internship roles from 2024 to Fall 2025 and job opportunities starting in September 2025.
 
