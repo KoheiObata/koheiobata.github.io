@@ -8,15 +8,15 @@ published: true
 ## Awards/Grants
 
 
-5. The Database Society of Japan (DBSJ) Kambayashi Young Researcher Award [2025] ([link](https://dbsj.org/overview/award/))
+5. The Database Society of Japan (DBSJ) Kambayashi Young Researcher Award (2025) ([link](https://dbsj.org/overview/award/))
 
 4. KDD 2024 Student Travel Award
 
 3. SIGMOD Student Travel Grant for the WSDM 2024
 
-2. Osaka University Fellowship for Cross-disciplinary Innovation [2023-]
+2. Osaka University Fellowship for Cross-disciplinary Innovation (2023-)
 
-1. Japan Student Services Organization (JASSO) Student Loan, Exemption [2023]
+1. Japan Student Services Organization (JASSO) Student Loan, Exemption (2023)
 
 0. DEIM 2023 Student Presentation Award
 {: reversed="reversed"}
