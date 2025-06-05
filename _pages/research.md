@@ -9,12 +9,11 @@ published: true
 My research interests:
 - Data mining
 - Time series analysis
-- Algorithms and optimization
 - Anomaly detection
 
 Specific interests:
-- Gaussian graphical model, network inference
-- [Subsequence clustering]({{site.baseurl}}/research/subsequence)
-- Contrastive learning
+- [Interpretable subsequence clusterin for tensor time series]({{site.baseurl}}/research/dmm)
+- [Missing value imputation leveraging network inference]({{site.baseurl}}/research/missnet)
+- [Contrastive learning for tensor time series]({{site.baseurl}}/research/most)
 - Diffusion model
-- Data augmentation
+- [Data augmentation for time series anomaly detection]({{site.baseurl}}/research/redlamp)
