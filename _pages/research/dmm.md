@@ -5,7 +5,7 @@ permalink: /research/dmm
 published: true
 ---
 
-## Interpretable subsequence clusterin for tensor time series
+## Interpretable subsequence clustering for tensor time series
 
 ![dmm](../../assets/images/dmm.png)
 

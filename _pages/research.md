@@ -12,7 +12,7 @@ My research interests:
 - Anomaly detection
 
 Specific interests:
-- [Interpretable subsequence clusterin for tensor time series]({{site.baseurl}}/research/dmm)
+- [Interpretable subsequence clustering for tensor time series]({{site.baseurl}}/research/dmm)
 - [Missing value imputation leveraging network inference]({{site.baseurl}}/research/missnet)
 - [Contrastive learning for tensor time series]({{site.baseurl}}/research/most)
 - Diffusion model

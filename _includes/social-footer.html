@@ -18,11 +18,12 @@
     {%- endif -%}
 
     {%- if site.google_scholar -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}" 
+    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}"
     class="social-button google-scholar"
     href="https://scholar.google.it/citations?user={{ site.google_scholar }}" itemprop="sameAs"
     target="_blank">
-    <i class="ai ai-google-scholar"></i>
+    <!-- <i class="ai ai-google-scholar"></i> -->
+    <img src="/assets/img/google-scholar.png" alt="Google Scholar" style="width:24px;vertical-align:middle;">
     </a>
     {%- endif -%}
 
