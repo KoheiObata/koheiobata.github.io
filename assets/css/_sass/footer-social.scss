@@ -140,3 +140,22 @@
   background: #fefefe;
   border-color: #FF0084;
 }
+
+
+.rounded-social-buttons {
+  background: none !important;
+  border: none !important;
+  border-radius: 0 !important;
+  padding: 0 !important;
+  margin: 0 0.25rem 0.25rem 0 !important;
+  box-shadow: none !important;
+}
+
+// 画像をホバー時に少し大きくするなどの効果を付けたい場合
+.rounded-social-buttons img {
+  transition: transform 0.2s;
+}
+.rounded-social-buttons:hover img,
+.rounded-social-buttons:focus img {
+  transform: scale(1.1);
+}
