@@ -142,7 +142,7 @@
 }
 
 
-.rounded-social-buttons {
+.rounded-social-buttons .social-button.img-only {
   background: none !important;
   border: none !important;
   border-radius: 0 !important;
@@ -152,10 +152,10 @@
 }
 
 // 画像をホバー時に少し大きくするなどの効果を付けたい場合
-.rounded-social-buttons img {
+.rounded-social-buttons .social-button.img-only img {
   transition: transform 0.2s;
 }
-.rounded-social-buttons:hover img,
-.rounded-social-buttons:focus img {
+.rounded-social-buttons .social-button.img-only:hover img,
+.rounded-social-buttons .social-button.img-only:focus img {
   transform: scale(1.1);
 }

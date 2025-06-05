@@ -2,10 +2,50 @@
 
     {%- if site.email -%}
     <a title="{{ _locale_string_email }}"
-    class="social-button email" itemprop="email"
+    class="social-button img-only" itemprop="email"
     href="mailto:{{ site.email | encode_email }}" target="_blank">
     <!-- <i class="far fa-envelope"></i> -->
-    <img src="/assets/images/icons8-mail-48.png" alt="email" style="width:24px;vertical-align:middle;">
+    <img src="/assets/images/icons8-mail-48.png" alt="email" style="width:36px;vertical-align:middle;">
+    </a>
+    {%- endif -%}
+
+    {%- if site.google_scholar -%}
+    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}"
+    class="social-button img-only"
+    href="https://scholar.google.it/citations?user={{ site.google_scholar }}" itemprop="sameAs"
+    target="_blank">
+    <!-- <i class="ai ai-google-scholar"></i> -->
+    <img src="/assets/images/icons8-google-scholar-48.png" alt="Google Scholar" style="width:36px;vertical-align:middle;">
+    </a>
+    {%- endif -%}
+
+    {%- if site.linkedin -%}
+    <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
+    class="social-button img-only"
+    href="https://www.linkedin.com/in/{{ site.linkedin }}" itemprop="sameAs"
+    target="_blank">
+    <!-- <i class="fab fa-linkedin"></i> -->
+    <img src="/assets/images/icons8-linkedin-48.png" alt="LinkedIn" style="width:36px;vertical-align:middle;">
+    </a>
+    {%- endif -%}
+
+    {%- if site.github -%}
+    <a title="{{ _locale_string_follow | replace: '[NAME]', 'GitHub' }}"
+    class="social-button img-only"
+    href="https://www.github.com/{{ site.github }}" itemprop="sameAs"
+    target="_blank">
+    <!-- <i class="fab fa-github"></i> -->
+    <img src="/assets/images/github-mark-white.png" alt="GitHub" style="width:36px;vertical-align:middle;">
+    </a>
+    {%- endif -%}
+
+    {%- if site.orcid -%}
+    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Orcid' }}"
+    class="social-button img-only"
+    href="https://orcid.org/{{ site.orcid }}" itemprop="sameAs"
+    target="_blank">
+    <!-- <i class="fab fa-orcid"></i> -->
+    <img src="/assets/images/icons8-orcid-32.png" alt="Orcid" style="width:36px;vertical-align:middle;">
     </a>
     {%- endif -%}
 
@@ -18,52 +58,12 @@
     </a>
     {%- endif -%}
 
-    {%- if site.google_scholar -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Google Scholar' }}"
-    class="social-button google-scholar"
-    href="https://scholar.google.it/citations?user={{ site.google_scholar }}" itemprop="sameAs"
-    target="_blank">
-    <!-- <i class="ai ai-google-scholar"></i> -->
-    <img src="/assets/images/icons8-google-scholar-48.png" alt="Google Scholar" style="width:24px;vertical-align:middle;">
-    </a>
-    {%- endif -%}
-
-    {%- if site.linkedin -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'LinkedIn' }}"
-    class="social-button linkedin"
-    href="https://www.linkedin.com/in/{{ site.linkedin }}" itemprop="sameAs"
-    target="_blank">
-    <!-- <i class="fab fa-linkedin"></i> -->
-    <img src="/assets/images/icons8-linkedin-48.png" alt="LinkedIn" style="width:24px;vertical-align:middle;">
-    </a>
-    {%- endif -%}
-
-    {%- if site.github -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'GitHub' }}"
-    class="social-button github"
-    href="https://www.github.com/{{ site.github }}" itemprop="sameAs"
-    target="_blank">
-    <!-- <i class="fab fa-github"></i> -->
-    <img src="/assets/images/github-mark-white.png" alt="GitHub" style="width:24px;vertical-align:middle;">
-    </a>
-    {%- endif -%}
-
     {%- if site.researchgate -%}
     <a title="{{ _locale_string_follow | replace: '[NAME]', 'ResearchGate' }}"
     class="social-button researchgate"
     href="https://www.researchgate.net/profile/{{ site.researchgate }}" itemprop="sameAs"
     target="_blank">
     <i class="fab fa-researchgate"></i>
-    </a>
-    {%- endif -%}
-
-    {%- if site.orcid -%}
-    <a title="{{ _locale_string_follow | replace: '[NAME]', 'Orcid' }}"
-    class="social-button orcid"
-    href="https://orcid.org/{{ site.orcid }}" itemprop="sameAs"
-    target="_blank">
-    <!-- <i class="fab fa-orcid"></i> -->
-    <img src="/assets/images/icons8-orcid-32.png" alt="Orcid" style="width:24px;vertical-align:middle;">
     </a>
     {%- endif -%}
 
