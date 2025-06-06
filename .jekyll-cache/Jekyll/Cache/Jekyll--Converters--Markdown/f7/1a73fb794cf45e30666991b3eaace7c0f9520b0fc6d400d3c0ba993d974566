@@ -1,0 +1,17 @@
+I"V<h2 id="research">Research</h2>
+<p>My research interests:</p>
+<ul>
+  <li>Data mining</li>
+  <li>Time series analysis</li>
+  <li>Anomaly detection</li>
+</ul>
+
+<p>Specific interests:</p>
+<ul>
+  <li><a href="/research/dmm">Interpretable subsequence clustering for tensor time series</a></li>
+  <li><a href="/research/missnet">Missing value imputation leveraging network inference</a></li>
+  <li><a href="/research/most">Contrastive learning for tensor time series</a></li>
+  <li>Diffusion model</li>
+  <li><a href="/research/redlamp">Data augmentation for time series anomaly detection</a></li>
+</ul>
+:ET

@@ -1,0 +1,10 @@
+I"�<h2 id="missing-value-imputation-leveraging-network-inference">Missing value imputation leveraging network inference</h2>
+
+<p><img src="../../assets/images/missnet.png" alt="missnet" /></p>
+
+<h3 id="reference">Reference</h3>
+
+<ol>
+  <li><u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “<em>Mining of Switching Sparse Networks for Missing Value Imputation in Multivariate Time Series</em>”. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’24), August 25–29, 2024, Barcelona, Spain. (doi: <a href="https://doi.org/10.1145/3637528.3671760">10.1145/3637528.3671760</a>, <a href="https://github.com/KoheiObata/MissNet">github</a>)</li>
+</ol>
+:ET

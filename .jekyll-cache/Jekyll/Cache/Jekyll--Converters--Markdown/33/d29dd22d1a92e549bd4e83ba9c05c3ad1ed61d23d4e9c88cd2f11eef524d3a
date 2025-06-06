@@ -1,0 +1,91 @@
+I"{<h2 id="awardsgrants">Awards/Grants</h2>
+
+<ol reversed="reversed">
+  <li>
+    <p>The Database Society of Japan (DBSJ) Kambayashi Young Researcher Award (2025) (<a href="https://dbsj.org/overview/award/">link</a>)</p>
+  </li>
+  <li>
+    <p>KDD 2024 Student Travel Award</p>
+  </li>
+  <li>
+    <p>SIGMOD Student Travel Grant for the WSDM 2024</p>
+  </li>
+  <li>
+    <p>Osaka University Fellowship for Cross-disciplinary Innovation (2023-)</p>
+  </li>
+  <li>
+    <p>Japan Student Services Organization (JASSO) Student Loan, Exemption (2023)</p>
+  </li>
+  <li>
+    <p>DEIM 2023 Student Presentation Award</p>
+  </li>
+</ol>
+
+<h2 id="internatioanl-conference-papers">Internatioanl Conference Papers</h2>
+
+<h4 id="2025">2025</h4>
+<ol reversed="reversed">
+  <li>
+    <p><u>Kohei Obata</u>, Yasuko Matsubara, Yasushi Sakurai. “<em>Robust and Explainable Detector of Time Series Anomaly via Augmenting Multiclass Pseudo-Anomalies</em>”. Proceedings of the 31th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’25), August 3–7, 2025, Toronto, Canada. (doi: <a href="">TBA</a>, <a href="https://github.com/KoheiObata/RedLamp">github</a>, <a href="https://github.com/KoheiObata/time-series-pseudo-anomaly">supplement</a>)</p>
+  </li>
+  <li>
+    <p><u>Kohei Obata</u>, Taichi Murayama, Zheng Chen, Yasuko Matsubara, Yasushi Sakurai. “<em>Disentangled Mode-Specific Representations for Tensor Time Series via Contrastive Learning</em>”. PAKDD’25. (doi: <a href="">TBA</a>, <a href="https://github.com/KoheiObata/MoST">github</a>)</p>
+  </li>
+</ol>
+
+<h4 id="2024">2024</h4>
+
+<ol reversed="reversed">
+  <li>
+    <p><u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “<em>Mining of Switching Sparse Networks for Missing Value Imputation in Multivariate Time Series</em>”. Proceedings of the 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD ’24), August 25–29, 2024, Barcelona, Spain. (doi: <a href="https://doi.org/10.1145/3637528.3671760">10.1145/3637528.3671760</a>, <a href="https://github.com/KoheiObata/MissNet">github</a>)</p>
+  </li>
+  <li>
+    <p><u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “<em>Dynamic Multi-Network Mining of Tensor Time Series</em>”. Proceedings of the ACM Web Conference 2024 (WWW ’24, Oral Session), May 13–17, 2024, Singapore. Acceptance Rate for Oral Session: 192/2008, 9.6% (doi: <a href="https://doi.org/10.1145/3589334.3645461">10.1145/3589334.3645461</a>, <a href="https://github.com/KoheiObata/DMM">github</a>)</p>
+  </li>
+  <li>
+    <p><u>Kohei Obata</u>. “<em>Gaussian Graphical Model-Based Clustering of Time Series Data</em>”. Proceedings of the 17th ACM International Conference on Web Search and Data Mining (WSDM ‘24), March 4–8, 2024, Merida, Mexico, pp. 8-12. (doi: <a href="https://doi.org/10.1145/3616855.3635728">10.1145/3616855.3635728</a>)</p>
+  </li>
+</ol>
+
+<h4 id="2022">2022</h4>
+<ol reversed="reversed">
+  <li><u>Kohei Obata</u>. “<em>Automatic Time-Series Clustering via Network Inference</em>”. 47th International Conference on Very Large Data Bases (VLDB) PhD workshop, September 5, 2022, Sydney, Australia. (<a href="https://ceur-ws.org/Vol-3186/paper_6.pdf">link</a>)
+<img src="/assets/images/logo-workshop.png" alt="Workshop" style="height: 1.2em; vertical-align: middle; margin-left: 0.3em;" /></li>
+</ol>
+
+<h2 id="journals">Journals</h2>
+
+<h4 id="2025-1">2025</h4>
+
+<ol reversed="reversed">
+  <li><u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “<em>Multivariate Time Series Imputation Method based on Sparse Network</em>”. IPSJ Transactions on Databases (TOD), Vol.18, No.2, 1-14, April 2025. (<a href="https://ipsj.ixsq.nii.ac.jp/records/2001790">link</a>)
+<img src="/assets/images/logo-journal.png" alt="Journal" style="height: 1.2em; vertical-align: middle; margin-left: 0.3em;" /></li>
+</ol>
+
+<h4 id="2023">2023</h4>
+
+<ol reversed="reversed">
+  <li><u>Kohei Obata</u>, Yasuko Matsubara, Koki Kawabata, Kota Nakamura, Yasushi Sakurai. “<em>Automatic Network Structure-based Clustering of Multivariate Time Series</em>”. IPSJ Transactions on Databases (TOD), Vol.16, No.1, 1-13, January 2023. (<a href="https://ipsj.ixsq.nii.ac.jp/records/223471">link</a>)</li>
+</ol>
+
+<h2 id="presentations">Presentations</h2>
+
+<h4 id="2023-1">2023</h4>
+
+<ol>
+  <li><u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai “<em>時系列テンソルデータのための将来予測</em>”. DEIM Forum 2023, March 5–9, 2023, Gifu, Japan. (<a href="https://proceedings-of-deim.github.io/DEIM2023/2b-2-2.pdf">link</a>)</li>
+</ol>
+
+<h2 id="misc">MISC</h2>
+<ol>
+  <li>
+    <p>DBSJ Newsletter Vol.18, No.2, May 2025. (<a href="https://dbsj.org/newsletter-vol-18-no-2/">Commemorative Remarks on Receiving the DBSJ Kambayashi Young Researcher Award</a>)</p>
+  </li>
+  <li>
+    <p>DBSJ Newsletter Vol.17, No.5, October 2024. (<a href="https://dbsj.org/newsletter-vol-17-no-5/">WWW 2024 Participation Report</a>)</p>
+  </li>
+  <li>
+    <p>Sakurai &amp; Matsubara Lab Blog (<a href="https://www.dm.sanken.osaka-u.ac.jp/interview_kohei/">WWW’24</a>, <a href="https://www.dm.sanken.osaka-u.ac.jp/interview_kohei2/">KDD’24</a>)</p>
+  </li>
+</ol>
+:ET

@@ -1,0 +1,10 @@
+I"�<h2 id="contrastive-learning-for-tensor-time-series">Contrastive learning for tensor time series</h2>
+
+<p><img src="../../assets/images/most.png" alt="most" /></p>
+
+<h3 id="reference">Reference</h3>
+
+<ol>
+  <li><u>Kohei Obata</u>, Taichi Murayama, Zheng Chen, Yasuko Matsubara, Yasushi Sakurai. “<em>Disentangled Mode-Specific Representations for Tensor Time Series via Contrastive Learning</em>”. PAKDD’25. (doi: <a href="">TBA</a>, <a href="https://github.com/KoheiObata/MoST">github</a>)</li>
+</ol>
+:ET

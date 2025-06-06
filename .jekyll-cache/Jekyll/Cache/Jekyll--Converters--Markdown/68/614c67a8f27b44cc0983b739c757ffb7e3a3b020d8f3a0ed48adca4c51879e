@@ -1,0 +1,10 @@
+I"h<h2 id="interpretable-subsequence-clustering-for-tensor-time-series">Interpretable subsequence clustering for tensor time series</h2>
+
+<p><img src="../../assets/images/dmm.png" alt="dmm" /></p>
+
+<h3 id="reference">Reference</h3>
+
+<ol>
+  <li><u>Kohei Obata</u>, Koki Kawabata, Yasuko Matsubara, Yasushi Sakurai. “<em>Dynamic Multi-Network Mining of Tensor Time Series</em>”. Proceedings of the ACM Web Conference 2024 (WWW ’24), May 13–17, 2024, Singapore. (doi: <a href="https://doi.org/10.1145/3589334.3645461">10.1145/3589334.3645461</a>, <a href="https://github.com/KoheiObata/DMM">github</a>)</li>
+</ol>
+:ET
